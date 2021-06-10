@@ -1,0 +1,11 @@
+{"_id":{"$oid":"60c0819be235df5a7ca07f15"},"ingredients":["Chocolate","Cottage Cheese","Cream Cheese","BBQ Sauce","Basil","Cayenne","Baking Powder","Brown Sugar","Cocoa Powder","Macaroni","Olive Oil"],"user":{"$oid":"60c0819be235df5a7ca07f14"},"__v":0}
+{"_id":{"$oid":"60c081c7e235df5a7ca07f19"},"ingredients":[],"user":{"$oid":"60c081c7e235df5a7ca07f18"},"__v":0}
+{"_id":{"$oid":"60c0bd80e4d5795ad0b6a208"},"ingredients":[],"user":{"$oid":"60c0bd80e4d5795ad0b6a207"},"__v":0}
+{"_id":{"$oid":"60c0bd8ee4d5795ad0b6a20d"},"ingredients":[],"user":{"$oid":"60c0bd8ee4d5795ad0b6a20c"},"__v":0}
+{"_id":{"$oid":"60c0bd96e4d5795ad0b6a211"},"ingredients":[],"user":{"$oid":"60c0bd96e4d5795ad0b6a210"},"__v":0}
+{"_id":{"$oid":"60c0bd9ee4d5795ad0b6a215"},"ingredients":[],"user":{"$oid":"60c0bd9ee4d5795ad0b6a214"},"__v":0}
+{"_id":{"$oid":"60c0c9d992c20d4ef0ec6a52"},"ingredients":[],"user":{"$oid":"60c0c9d992c20d4ef0ec6a51"},"__v":0}
+{"_id":{"$oid":"60c0c9e992c20d4ef0ec6a56"},"ingredients":[],"user":{"$oid":"60c0c9e992c20d4ef0ec6a55"},"__v":0}
+{"_id":{"$oid":"60c0c9f492c20d4ef0ec6a5a"},"ingredients":[],"user":{"$oid":"60c0c9f492c20d4ef0ec6a59"},"__v":0}
+{"_id":{"$oid":"60c0cb9392c20d4ef0ec6a5e"},"ingredients":[],"user":{"$oid":"60c0cb9392c20d4ef0ec6a5d"},"__v":0}
+{"_id":{"$oid":"60c22f92911d2b5a5c09837d"},"ingredients":["Barley","Corn","Fonio","Oats","Tomato"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}

@@ -1,0 +1,77 @@
+version: "3"
+services: 
+    frontend:
+        build:
+            context: ./brekkie-frontend
+            dockerfile: Dockerfile
+        stdin_open: true
+        ports:
+            - "3000:3000"
+        networks:
+            - brekkie
+        environment:
+            - REACT_APP_BASE_URL=http://localhost:5000
+            - REACT_APP_SIGNUP=/auth/signup
+            - REACT_APP_LOGIN_URL=/auth/login
+            - REACT_APP_COMMENTS=/comment/
+            - REACT_APP_FAVORITES=/favorite/
+            - REACT_APP_FOOD_LOGS=/food_log/
+            - REACT_APP_FOOD_LOGS_BY_DATE=/food_log/find/
+            - REACT_APP_FOOD_LOGS_BY_RANGE=/food_log/range/
+            - REACT_APP_INVENTORY=/inventory
+            - REACT_APP_VOTE_ONE_STAR=/recipe/one_star/
+            - REACT_APP_VOTE_TWO_STAR=/recipe/two_star/
+            - REACT_APP_VOTE_THREE_STAR=/recipe/three_star/
+            - REACT_APP_VOTE_FOUR_STAR=/recipe/four_star/
+            - REACT_APP_VOTE_FIVE_STAR=/recipe/five_star/
+            - REACT_APP_ADD_RECIPE=/recipe
+            - REACT_APP_ALL_RECIPES=/recipe/index
+            - REACT_APP_RECIPE_BY_KEYWORD=/recipe/find
+            - REACT_APP_RECIPE_BY_ID=/recipe/find/
+            - REACT_APP_RECIPES_BY_INVENTORY=/recipe/find_by_inventory
+            - REACT_APP_SHOPPING_LIST=/shopping_list
+            - REACT_APP_ALL_USERS=/user/index
+            - REACT_APP_USER_PROFILE=/user/profile
+            - REACT_APP_USER_BY_ID=/user/find/
+    backend:
+        build:
+            context: ./brekkie-backend
+            dockerfile: Dockerfile
+        ports:
+            - "5000:5000"
+        networks:
+            - brekkie
+        depends_on: 
+            - mongo
+        environment:
+            - PORT=5000
+            - DB=mongodb://mongodb:27017/brekkie
+            - JWT_SECRET=U3R8z2KHVz8U3k9f
+
+    mongo:
+        hostname: mongodb
+        image: mongo:4.4
+        ports:
+            - "27017:27017"
+        networks:
+            - brekkie
+        volumes: 
+            - mongo-data:/data/brekkie
+            - ./seeds:/seeds
+
+    mongo-seed:
+        build: ./mongo-seed
+        networks:
+            - brekkie
+        links:
+            - mongo
+        depends_on: 
+            - mongo
+
+networks: 
+    brekkie:
+        driver: bridge
+
+volumes: 
+    mongo-data:
+        driver: local
