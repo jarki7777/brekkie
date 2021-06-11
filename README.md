@@ -28,6 +28,8 @@ Made with
 - Frontend: React + Redux
 
 The recipes where extracted from [LivelyTable](https://livelytable.com/) using a [Scraper](https://github.com/jarki7777/recipe-scraper.git) made with `puppeteer`
+
+Check the live version [Here](https://master.d1km7u68buxfif.amplifyapp.com/)
 #
 
 # Configuration
