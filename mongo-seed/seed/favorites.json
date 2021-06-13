@@ -1,11 +1,3 @@
-{"_id":{"$oid":"60c0819be235df5a7ca07f17"},"recipes":[{"$oid":"60be1fa278f047118c66b077"},{"$oid":"60be1fa68b4463c80e8471b9"}],"user":{"$oid":"60c0819be235df5a7ca07f14"},"__v":0}
-{"_id":{"$oid":"60c081c7e235df5a7ca07f1b"},"recipes":[],"user":{"$oid":"60c081c7e235df5a7ca07f18"},"__v":0}
-{"_id":{"$oid":"60c0bd80e4d5795ad0b6a20a"},"recipes":[],"user":{"$oid":"60c0bd80e4d5795ad0b6a207"},"__v":0}
-{"_id":{"$oid":"60c0bd8ee4d5795ad0b6a20f"},"recipes":[],"user":{"$oid":"60c0bd8ee4d5795ad0b6a20c"},"__v":0}
-{"_id":{"$oid":"60c0bd96e4d5795ad0b6a213"},"recipes":[],"user":{"$oid":"60c0bd96e4d5795ad0b6a210"},"__v":0}
-{"_id":{"$oid":"60c0bd9ee4d5795ad0b6a217"},"recipes":[],"user":{"$oid":"60c0bd9ee4d5795ad0b6a214"},"__v":0}
-{"_id":{"$oid":"60c0c9d992c20d4ef0ec6a54"},"recipes":[],"user":{"$oid":"60c0c9d992c20d4ef0ec6a51"},"__v":0}
-{"_id":{"$oid":"60c0c9e992c20d4ef0ec6a58"},"recipes":[],"user":{"$oid":"60c0c9e992c20d4ef0ec6a55"},"__v":0}
-{"_id":{"$oid":"60c0c9f492c20d4ef0ec6a5c"},"recipes":[],"user":{"$oid":"60c0c9f492c20d4ef0ec6a59"},"__v":0}
-{"_id":{"$oid":"60c0cb9392c20d4ef0ec6a60"},"recipes":[],"user":{"$oid":"60c0cb9392c20d4ef0ec6a5d"},"__v":0}
-{"_id":{"$oid":"60c22f92911d2b5a5c09837f"},"recipes":[{"$oid":"60be209b99b47944e9636e92"},{"$oid":"60be20873dcd03bd20f109c5"}],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}
+{"_id":{"$oid":"60c63077e733994b64591ad0"},"recipes":[],"user":{"$oid":"60c63077e733994b64591acd"},"__v":0}
+{"_id":{"$oid":"60c6308de733994b64591ad4"},"recipes":[],"user":{"$oid":"60c6308de733994b64591ad1"},"__v":0}
+{"_id":{"$oid":"60c63096e733994b64591ad8"},"recipes":[{"$oid":"60be1fa278f047118c66b077"},{"$oid":"60be1fa3d7162955b1e54548"},{"$oid":"60be1fa220ee12abc5c55039"}],"user":{"$oid":"60c63096e733994b64591ad5"},"__v":0}

@@ -1,11 +1,3 @@
-{"_id":{"$oid":"60c0819be235df5a7ca07f16"},"ingredients":["potato"],"user":{"$oid":"60c0819be235df5a7ca07f14"},"__v":0}
-{"_id":{"$oid":"60c081c7e235df5a7ca07f1a"},"ingredients":[],"user":{"$oid":"60c081c7e235df5a7ca07f18"},"__v":0}
-{"_id":{"$oid":"60c0bd80e4d5795ad0b6a209"},"ingredients":[],"user":{"$oid":"60c0bd80e4d5795ad0b6a207"},"__v":0}
-{"_id":{"$oid":"60c0bd8ee4d5795ad0b6a20e"},"ingredients":[],"user":{"$oid":"60c0bd8ee4d5795ad0b6a20c"},"__v":0}
-{"_id":{"$oid":"60c0bd96e4d5795ad0b6a212"},"ingredients":[],"user":{"$oid":"60c0bd96e4d5795ad0b6a210"},"__v":0}
-{"_id":{"$oid":"60c0bd9ee4d5795ad0b6a216"},"ingredients":[],"user":{"$oid":"60c0bd9ee4d5795ad0b6a214"},"__v":0}
-{"_id":{"$oid":"60c0c9d992c20d4ef0ec6a53"},"ingredients":[],"user":{"$oid":"60c0c9d992c20d4ef0ec6a51"},"__v":0}
-{"_id":{"$oid":"60c0c9e992c20d4ef0ec6a57"},"ingredients":[],"user":{"$oid":"60c0c9e992c20d4ef0ec6a55"},"__v":0}
-{"_id":{"$oid":"60c0c9f492c20d4ef0ec6a5b"},"ingredients":[],"user":{"$oid":"60c0c9f492c20d4ef0ec6a59"},"__v":0}
-{"_id":{"$oid":"60c0cb9392c20d4ef0ec6a5f"},"ingredients":[],"user":{"$oid":"60c0cb9392c20d4ef0ec6a5d"},"__v":0}
-{"_id":{"$oid":"60c22f92911d2b5a5c09837e"},"ingredients":["1 tsp miso paste","1 tsp sesame oil","1 inch piece of fresh ginger, grated (2-3 tsp)","1 cup shredded cabbage","4 (3-4 oz) salmon filets","1 tsp soy sauce*","Tomato","Onions","Potatoes","Chicken breasts"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}
+{"_id":{"$oid":"60c63077e733994b64591acf"},"ingredients":[],"user":{"$oid":"60c63077e733994b64591acd"},"__v":0}
+{"_id":{"$oid":"60c6308de733994b64591ad3"},"ingredients":[],"user":{"$oid":"60c6308de733994b64591ad1"},"__v":0}
+{"_id":{"$oid":"60c63096e733994b64591ad7"},"ingredients":["russet potatoes","garlic","chicken broth","kosher salt","butter","milk"],"user":{"$oid":"60c63096e733994b64591ad5"},"__v":0}
