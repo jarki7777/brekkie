@@ -31,7 +31,9 @@ The recipes where extracted from [LivelyTable](https://livelytable.com/) using a
 
 Proceed to the next steps to run locally or take a look at the [live version demo](https://master.d1km7u68buxfif.amplifyapp.com/)
 
-- Use the [sample](#The-sample-user-credentials-are) users to see all functionalities underway
+- Use the [sample](#The-sample-user-credentials-are) users to see all functionalities underway. 
+- 
+- **TO GET RELEVANT STATS FROM CLIENT USER, SEARCH THE DATES FROM 06-01-2021 TO 06-08-2021**
 #
 
 # Configuration
