@@ -8,4 +8,4 @@
 {"_id":{"$oid":"60c0c9e992c20d4ef0ec6a57"},"ingredients":[],"user":{"$oid":"60c0c9e992c20d4ef0ec6a55"},"__v":0}
 {"_id":{"$oid":"60c0c9f492c20d4ef0ec6a5b"},"ingredients":[],"user":{"$oid":"60c0c9f492c20d4ef0ec6a59"},"__v":0}
 {"_id":{"$oid":"60c0cb9392c20d4ef0ec6a5f"},"ingredients":[],"user":{"$oid":"60c0cb9392c20d4ef0ec6a5d"},"__v":0}
-{"_id":{"$oid":"60c22f92911d2b5a5c09837e"},"ingredients":["4 (3-4 oz) salmon filets","Green onion and/or basil for serving","1 tsp grated ginger","1 tsp soy sauce*","1 tsp sesame oil","Asparagus"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}
+{"_id":{"$oid":"60c22f92911d2b5a5c09837e"},"ingredients":["1 tsp miso paste","1 tsp sesame oil","1 inch piece of fresh ginger, grated (2-3 tsp)","1 cup shredded cabbage","4 (3-4 oz) salmon filets","1 tsp soy sauce*","Tomato","Onions","Potatoes","Chicken breasts"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}

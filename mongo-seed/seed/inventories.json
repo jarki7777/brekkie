@@ -8,4 +8,4 @@
 {"_id":{"$oid":"60c0c9e992c20d4ef0ec6a56"},"ingredients":[],"user":{"$oid":"60c0c9e992c20d4ef0ec6a55"},"__v":0}
 {"_id":{"$oid":"60c0c9f492c20d4ef0ec6a5a"},"ingredients":[],"user":{"$oid":"60c0c9f492c20d4ef0ec6a59"},"__v":0}
 {"_id":{"$oid":"60c0cb9392c20d4ef0ec6a5e"},"ingredients":[],"user":{"$oid":"60c0cb9392c20d4ef0ec6a5d"},"__v":0}
-{"_id":{"$oid":"60c22f92911d2b5a5c09837d"},"ingredients":["Barley","Corn","Fonio","Oats","Tomato"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}
+{"_id":{"$oid":"60c22f92911d2b5a5c09837d"},"ingredients":["Barley","Corn","Fonio","Oats","Tomato","quinoa","edamame","kidney beans","chickpeas","red onion","yellow bell pepper","red bell pepper","celery","green onions","cilantro","parsley","red wine","olive oil","salt","butter","light brown sugar","granulated sugar","white whole wheat flour","baking soda","cinnamon","vanilla extract","large egg","small apples","kale","blackberries","raspberries","blueberries","strawberries","avocado","feta cheese","balsamic vinaigrette"],"user":{"$oid":"60c22f92911d2b5a5c09837c"},"__v":0}

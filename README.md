@@ -28,6 +28,10 @@ Made with
 - Frontend: React + Redux
 
 The recipes where extracted from [LivelyTable](https://livelytable.com/) using a [Scraper](https://github.com/jarki7777/recipe-scraper.git) made with `puppeteer`
+
+Proceed to the next steps to run locally or take a look at the [live version demo](https://master.d1km7u68buxfif.amplifyapp.com/)
+
+- Use the [sample](#The-sample-user-credentials-are) users to see all functionalities underway
 #
 
 # Configuration
@@ -42,6 +46,8 @@ The recipes where extracted from [LivelyTable](https://livelytable.com/) using a
 By default the react server will run on port 3000 and the Express server will run on port 5000, you can modify the PORTS on the `docker-compose.yml` file
 
 - After docker compose ends Open a new browser tab http://localhost:3000/
+
+- Use the [sample](#The-sample-user-credentials-are) users to see all functionalities underway
 
 # Folder structure
 
@@ -117,7 +123,7 @@ The recipes where extracted from [LivelyTable](https://livelytable.com/) using a
 
 [API Documentation](https://documenter.getpostman.com/view/14151477/TzeRqARd)
 
-The sample user credentials are:
+### The sample user credentials are:
 - admin:
 
     email: admin@admin.com
