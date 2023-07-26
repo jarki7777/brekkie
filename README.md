@@ -29,6 +29,8 @@ Made with
 
 The recipes where extracted from [LivelyTable](https://livelytable.com/) using a [Scraper](https://github.com/jarki7777/recipe-scraper.git) made with `puppeteer`
 
+The project Deadline was 10 days
+
 Proceed to the next steps to run locally or take a look at the [live version demo](https://master.d1km7u68buxfif.amplifyapp.com/)
 
 - Use the [sample](#The-sample-user-credentials-are) users to see all functionalities underway. 
